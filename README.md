@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="WhatsApp Image 2023-07-18 at 3.30.56 PM.jpeg">
+<img align="center" alt="coding" width="100%" src="">
 <h1 align="center">Hi 👋, I'm Kupeshanth K</h1>
 <h3 align="center">A passionate Quality Assurance Engineer (Automation) and frontend developer from Sri Lanka</h3>
 
